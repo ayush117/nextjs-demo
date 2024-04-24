@@ -16,7 +16,7 @@ const Banner = () => {
       <div className="relative bg-yellow-300 px-6 py-4 text-center font-medium lg:px-24 lg:text-start xl:py-6">
         <p>
           Explore our CreatorCon <b>booth options</b> to showcase your brand, connect with Influencers, Industry Leaders
-          and maximise your presence at the event. Whether you're looking to engage with our diverse audience or
+          and maximise your presence at the event. Whether you&apos;re looking to engage with our diverse audience or
           generate leads, we have the perfect booth package to help you achieve your goals.
         </p>
       </div>
